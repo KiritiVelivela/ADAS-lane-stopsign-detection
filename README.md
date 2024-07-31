@@ -11,7 +11,7 @@ The project offers a C++ implementation that detects lanes and stop signs in vid
 - **Multithreading**: Custom implementation of `Channel` and `BufferedChannel` classes facilitate inter-thread communication for efficient parallel processing.
 
 ## Design
-![Project Design](design.jpg "Project Design")
+![Project Design](cv_architecture_diagram.png "Project Design")
 
 ## Code Overview
 
